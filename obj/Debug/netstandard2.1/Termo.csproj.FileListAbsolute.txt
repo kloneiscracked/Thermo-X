@@ -1,0 +1,36 @@
+C:\Users\Admin\Desktop\j\termos\obj\Debug\netstandard2.1\Termo.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\j\termos\obj\Debug\netstandard2.1\Termo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\j\termos\obj\Debug\netstandard2.1\Termo.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\j\termos\obj\Debug\netstandard2.1\Termo.AssemblyInfo.cs
+C:\Users\Admin\Desktop\j\termos\obj\Debug\netstandard2.1\Termo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\j\termos\bin\Debug\netstandard2.1\Termo.deps.json
+C:\Users\Admin\Desktop\j\termos\bin\Debug\netstandard2.1\Termo.dll
+C:\Users\Admin\Desktop\j\termos\bin\Debug\netstandard2.1\Termo.pdb
+C:\Users\Admin\Desktop\j\termos\bin\Debug\netstandard2.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\j\termos\bin\Debug\netstandard2.1\0Harmony.xml
+C:\Users\Admin\Desktop\j\termos\bin\Debug\netstandard2.1\BepInEx.xml
+C:\Users\Admin\Desktop\j\termos\bin\Debug\netstandard2.1\BepInEx.Harmony.xml
+C:\Users\Admin\Desktop\j\termos\bin\Debug\netstandard2.1\BepInEx.Preloader.xml
+C:\Users\Admin\Desktop\j\termos\bin\Debug\netstandard2.1\MonoMod.RuntimeDetour.xml
+C:\Users\Admin\Desktop\j\termos\bin\Debug\netstandard2.1\MonoMod.Utils.xml
+C:\Users\Admin\Desktop\j\termos\obj\Debug\netstandard2.1\Termo.csproj.Up2Date
+C:\Users\Admin\Desktop\j\termos\obj\Debug\netstandard2.1\Termo.dll
+C:\Users\Admin\Desktop\j\termos\obj\Debug\netstandard2.1\Termo.pdb
+C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag\BepInEx\plugins\fsdgd\Debug\netstandard2.1\Termo.deps.json
+C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag\BepInEx\plugins\fsdgd\Debug\netstandard2.1\Termo.dll
+C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag\BepInEx\plugins\fsdgd\Debug\netstandard2.1\Termo.pdb
+C:\Users\Becca\Downloads\Project\termos\obj\Debug\netstandard2.1\Termo.csproj.AssemblyReference.cache
+C:\Users\Becca\Downloads\Project\termos\obj\Debug\netstandard2.1\Termo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Becca\Downloads\Project\termos\obj\Debug\netstandard2.1\Termo.AssemblyInfoInputs.cache
+C:\Users\Becca\Downloads\Project\termos\obj\Debug\netstandard2.1\Termo.AssemblyInfo.cs
+C:\Users\Becca\Downloads\Project\termos\obj\Debug\netstandard2.1\Termo.csproj.CoreCompileInputs.cache
+C:\Users\Becca\Downloads\Project\termos\obj\Debug\netstandard2.1\Termo.dll
+C:\Users\Becca\Downloads\Project\termos\obj\Debug\netstandard2.1\Termo.pdb
+C:\Users\Admin\Desktop\Thermo\Project\termos\obj\Debug\netstandard2.1\Termo.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Thermo\Project\termos\obj\Debug\netstandard2.1\Termo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Thermo\Project\termos\obj\Debug\netstandard2.1\Termo.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Thermo\Project\termos\obj\Debug\netstandard2.1\Termo.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Thermo\Project\termos\obj\Debug\netstandard2.1\Termo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Thermo\Project\termos\obj\Debug\netstandard2.1\Termo.csproj.Up2Date
+C:\Users\Admin\Desktop\Thermo\Project\termos\obj\Debug\netstandard2.1\Termo.dll
+C:\Users\Admin\Desktop\Thermo\Project\termos\obj\Debug\netstandard2.1\Termo.pdb
